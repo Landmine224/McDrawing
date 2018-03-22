@@ -1,0 +1,10 @@
+C:\Users\tolmalan000\Documents\Visual Studio 2017\McDrawing\McDrawing\bin\Debug\McDrawing.exe.config
+C:\Users\tolmalan000\Documents\Visual Studio 2017\McDrawing\McDrawing\bin\Debug\McDrawing.exe
+C:\Users\tolmalan000\Documents\Visual Studio 2017\McDrawing\McDrawing\bin\Debug\McDrawing.pdb
+C:\Users\tolmalan000\Documents\Visual Studio 2017\McDrawing\McDrawing\obj\Debug\McDrawing.csprojResolveAssemblyReference.cache
+C:\Users\tolmalan000\Documents\Visual Studio 2017\McDrawing\McDrawing\obj\Debug\McDrawing.Form1.resources
+C:\Users\tolmalan000\Documents\Visual Studio 2017\McDrawing\McDrawing\obj\Debug\McDrawing.Properties.Resources.resources
+C:\Users\tolmalan000\Documents\Visual Studio 2017\McDrawing\McDrawing\obj\Debug\McDrawing.csproj.GenerateResource.Cache
+C:\Users\tolmalan000\Documents\Visual Studio 2017\McDrawing\McDrawing\obj\Debug\McDrawing.csproj.CoreCompileInputs.cache
+C:\Users\tolmalan000\Documents\Visual Studio 2017\McDrawing\McDrawing\obj\Debug\McDrawing.exe
+C:\Users\tolmalan000\Documents\Visual Studio 2017\McDrawing\McDrawing\obj\Debug\McDrawing.pdb
